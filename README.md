@@ -65,7 +65,7 @@ Your garbage is safe 🗑️✅
 ## Getting started
 
 1. Wire everything up according to the table above
-2. Open `bear-detector-arduino.ino` in Arduino IDE
+2. Open `bear_detector.ino` in Arduino IDE
 3. Upload to your Arduino Uno
 4. Point the sensor at your bin
 5. Wait for a bear 🐻
