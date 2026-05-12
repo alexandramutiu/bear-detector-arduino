@@ -4,7 +4,7 @@
 #define PIN_LED_WHITE 8
 #define PIN_TRIG      2
 #define PIN_ECHO      3
-#define PIN_BUZZER    10
+#define PIN_BUZZER    9
 
 //Thresholds for the distances
 const int DISTANCE_THRS = 150;
