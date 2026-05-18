@@ -1,4 +1,4 @@
-# 🐻 Bear Detector Arduino Project
+# Bear Detector Arduino Project
 
 > *"Because your garbage deserves protection too."*
 
